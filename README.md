@@ -38,21 +38,14 @@ To set up the Marvel Avenger Universe website locally, follow these steps:
 ```bash
 git clone https://github.com/akielaarmansheva/CapstoneMarvelSheva.git
 ```
-
-2. Change the working directory
-
-```bash
-cd github-profile-readme-generator
-```
-
-3. Install dependencies
+2. Install dependencies
 
 ```bash
 npm install
 ```
-4. Configure the ChatBot Watson Assistant credentials in the application settings.
+3. Configure the ChatBot Watson Assistant credentials in the application settings.
   
-5. Run the app
+4. Run the app
 
 ```bash
 npm start
