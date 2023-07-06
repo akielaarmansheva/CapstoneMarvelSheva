@@ -72,7 +72,7 @@ Visit the Marvel Avenger Universe website at https://www.marvel.com/ and start e
 ## 🙋‍♂️ Support
 
 💙 If you like this project, give it a ⭐ and share it with friends!
-<a href="https://www.instagram.com/akieeel/"><img alt="Instagram" title="Instagram" src=https://i.pinimg.com/564x/7d/36/9f/7d369fb78ad668867000c0d987a1b70d.jpg"/></a>
+
 
 
 
