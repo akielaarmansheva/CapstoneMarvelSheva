@@ -1,0 +1,1353 @@
+{
+  "intents": [
+    {
+      "intent": "About_Marvel",
+      "examples": [
+        {
+          "text": "What is Marvel Avenger Universe?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "About_Movie",
+      "examples": [
+        {
+          "text": "Best MCU Movie"
+        },
+        {
+          "text": "Best Movie"
+        },
+        {
+          "text": "MCU Movie"
+        },
+        {
+          "text": "What is the best MCU Movie ever?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "About_Phase",
+      "examples": [
+        {
+          "text": "Explain about this phase"
+        },
+        {
+          "text": "How many phases of marvel films?"
+        },
+        {
+          "text": "Phase Marvel"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "About_StanLee",
+      "examples": [
+        {
+          "text": "Who is the Writer of Marvel Comics?"
+        },
+        {
+          "text": "Writer"
+        },
+        {
+          "text": "Writer Marvel Comics"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "About_Thor",
+      "examples": [
+        {
+          "text": "Who is Strongest Avengers?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "About_Trivia",
+      "examples": [
+        {
+          "text": "Faq"
+        },
+        {
+          "text": "Fun Facts"
+        },
+        {
+          "text": "How many original Avengers are there?"
+        },
+        {
+          "text": "Question"
+        },
+        {
+          "text": "Trivia"
+        },
+        {
+          "text": "Trivia Question"
+        },
+        {
+          "text": "What is the name of Thor’s hammer?"
+        },
+        {
+          "text": "What is the real name of the Black Panther?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "About you"
+        },
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "Do you have a name?"
+        },
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "How can I configure you?"
+        },
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "What languages do you speak?"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Why are you here?"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    },
+    {
+      "intent": "General_Agent_Capabilities",
+      "examples": [
+        {
+          "text": "Can you please give me a list of the types of things you can help me with?"
+        },
+        {
+          "text": "Can you tell me what services you are able to help me with?"
+        },
+        {
+          "text": "Do you have a list of things I can talk to you about?"
+        },
+        {
+          "text": "Help now"
+        },
+        {
+          "text": "Hi, what do you do?"
+        },
+        {
+          "text": "How can I use you?"
+        },
+        {
+          "text": "How can you help me?"
+        },
+        {
+          "text": "How can you solve my problems?"
+        },
+        {
+          "text": "How do I use you?"
+        },
+        {
+          "text": "I'd like to know what type of questions you can answer for me."
+        },
+        {
+          "text": "I do not know what to ask"
+        },
+        {
+          "text": "Is there anything you can help me with?"
+        },
+        {
+          "text": "Tell me about what kind of things you do?"
+        },
+        {
+          "text": "Tell me something"
+        },
+        {
+          "text": "What are my options?"
+        },
+        {
+          "text": "What are my options that you can help with?"
+        },
+        {
+          "text": "What are you able to deal with?"
+        },
+        {
+          "text": "What are you able to understand?"
+        },
+        {
+          "text": "What are you capable of?"
+        },
+        {
+          "text": "What are you good at?"
+        },
+        {
+          "text": "What are your skills?"
+        },
+        {
+          "text": "What are you used for?"
+        },
+        {
+          "text": "What can I ask you to do?"
+        },
+        {
+          "text": "What do you do?"
+        },
+        {
+          "text": "What do you handle?"
+        },
+        {
+          "text": "What else can you help me with?"
+        },
+        {
+          "text": "What features are in here?"
+        },
+        {
+          "text": "What is this 4?"
+        },
+        {
+          "text": "What kinds of things can you do?"
+        },
+        {
+          "text": "Where can I find the frequently asked questions?"
+        }
+      ],
+      "description": "Request capabilities of the bot."
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "Agent help"
+        },
+        {
+          "text": "A real agent, please."
+        },
+        {
+          "text": "Call agent"
+        },
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "Can I speak to a human please?"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Can I talk to someone?"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "Do not want a robot?"
+        },
+        {
+          "text": "Hi can you transfer me"
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "I don't want to talk to a bot."
+        },
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "I want agent"
+        },
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Please connect me to a live agent"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "Yes, take me to a real person"
+        }
+      ],
+      "description": "Request a human agent."
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Time to go"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "You there"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Am I talking to Watson?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "Are you real?"
+        },
+        {
+          "text": "How can you prove you are a human?"
+        },
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        }
+      ],
+      "description": "Ask if speaking to a human or a bot."
+    },
+    {
+      "intent": "General_Jokes",
+      "examples": [
+        {
+          "text": "Another joke"
+        },
+        {
+          "text": "Are there jokes?"
+        },
+        {
+          "text": "Can you tell a joke?"
+        },
+        {
+          "text": "Can you tell me a joke?"
+        },
+        {
+          "text": "Do you have a joke?"
+        },
+        {
+          "text": "Do you have humor?"
+        },
+        {
+          "text": "Do you like fun?"
+        },
+        {
+          "text": "Do you like humor?"
+        },
+        {
+          "text": "I am getting bored"
+        },
+        {
+          "text": "I'm bored"
+        },
+        {
+          "text": "I want a joke"
+        },
+        {
+          "text": "One more joke"
+        },
+        {
+          "text": "Surprise me with something hilarious"
+        },
+        {
+          "text": "Tell me a joke"
+        },
+        {
+          "text": "Tell me something funny"
+        },
+        {
+          "text": "What do you do for fun?"
+        },
+        {
+          "text": "What is your favorite joke?"
+        }
+      ],
+      "description": "Request a joke."
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "You're too stupid"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "Brilliant!"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You the man"
+        },
+        {
+          "text": "You've been so helpful :)"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "General_Security_Assurance",
+      "examples": [
+        {
+          "text": "Are you safe?"
+        },
+        {
+          "text": "Are you safe on hackers?"
+        },
+        {
+          "text": "Can I be sure that my stored card details are held securely?"
+        },
+        {
+          "text": "Conversation secure?"
+        },
+        {
+          "text": "Customer info secured?"
+        },
+        {
+          "text": "Do you have protection against hacks?"
+        },
+        {
+          "text": "How do I know if my card info is kept safe?"
+        },
+        {
+          "text": "How do I know this chat is not a scam?"
+        },
+        {
+          "text": "How is my credit card info secured?"
+        },
+        {
+          "text": "How safe is my data?"
+        },
+        {
+          "text": "I'd like proof of a secure chat"
+        },
+        {
+          "text": "In what way can I tell if my plastic is safe?"
+        },
+        {
+          "text": "Is my card info secure?"
+        },
+        {
+          "text": "Is my payment information secure?"
+        },
+        {
+          "text": "Is there a reason to distrust this chat?"
+        },
+        {
+          "text": "Is this an official chat?"
+        },
+        {
+          "text": "Is this a trusted chat site?"
+        },
+        {
+          "text": "Is this conversation secure?"
+        },
+        {
+          "text": "Precautions hackers?"
+        },
+        {
+          "text": "Protection hacks?"
+        },
+        {
+          "text": "Secure conversation?"
+        },
+        {
+          "text": "What guards do you have in place to protect your customer's data?"
+        },
+        {
+          "text": "What makes this chat trustworthy?"
+        },
+        {
+          "text": "What safety measures are used to ensure that chat is secure?"
+        },
+        {
+          "text": "Why would I trust this chat?"
+        },
+        {
+          "text": "Will my conversation remain secured?"
+        }
+      ],
+      "description": "Express concerns about the security of the bot."
+    }
+  ],
+  "entities": [
+    {
+      "entity": "trivia",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "How many original Avengers are there?",
+          "synonyms": [
+            "avenger",
+            "original",
+            "original avenger"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "What is the Hulk’s name when he’s in human form?",
+          "synonyms": [
+            "hulk",
+            "hulk name",
+            "human form"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "What is the name of Iron Man’s A.I. butler?",
+          "synonyms": [
+            "ai",
+            "butler",
+            "iron man"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "What is the name of Thor’s hammer?",
+          "synonyms": [
+            "hammer",
+            "thor",
+            "thor hammer"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "What is the real name of the Black Panther?",
+          "synonyms": [
+            "black phanter",
+            "bp",
+            "real name"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_8_1688577501146",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "Fun Facts and Trivia Questions About the MCU",
+            "options": [
+              {
+                "label": "What is the name of Thor’s hammer?",
+                "value": {
+                  "input": {
+                    "text": "What is the name of Thor’s hammer?"
+                  }
+                }
+              },
+              {
+                "label": "How many original Avengers are there?",
+                "value": {
+                  "input": {
+                    "text": "How many original Avengers are there?"
+                  }
+                }
+              },
+              {
+                "label": "What is the real name of the Black Panther?",
+                "value": {
+                  "input": {
+                    "text": "What is the real name of the Black Panther?"
+                  }
+                }
+              },
+              {
+                "label": "What is the Hulk’s name when he’s in human  form?",
+                "value": {
+                  "input": {
+                    "text": "What is the Hulk’s name when he’s in human  form?"
+                  }
+                }
+              },
+              {
+                "label": "What is the name of  Iron Man’s A.I. butler?",
+                "value": {
+                  "input": {
+                    "text": "What is the name of  Iron Man’s A.I. butler?"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_7_1688621088535"
+      },
+      "conditions": "#About_Trivia",
+      "dialog_node": "node_10_1688619952482",
+      "previous_sibling": "node_2_1688585170764"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The real name of the Black Panther is T’Challa."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Black Phanter",
+            "source": "https://i.pinimg.com/564x/c8/a5/ab/c8a5ab53d48e4476afba62cc1080204a.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_10_1688619952482",
+      "conditions": "@trivia:(What is the real name of the Black Panther?)",
+      "dialog_node": "node_10_1688621621123",
+      "previous_sibling": "node_7_1688621439428"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The Avengers are a team of fictional superheroes and the protagonists of the Marvel Cinematic Universe (MCU) media franchise, based on the Marvel Comics team of the same name created by Stan Lee and Jack Kirby in 1963. Founded by S.H.I.E.L.D. Director Nick Fury, the team is a United States-based organization composed primarily of superpowered and gifted individuals, described as \"Earth's Mightiest Heroes\", who are committed to the world's protection from a variety of threats. The Avengers are depicted as operating in the state of New York: originally from the Avengers Tower in Midtown Manhattan and subsequently from the Avengers Compound in Upstate New York."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#About_Marvel",
+      "dialog_node": "node_1_1688575590463",
+      "previous_sibling": "node_9_1688572519680"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bruce Banner"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Hulk",
+            "source": "https://i.pinimg.com/736x/93/8d/bd/938dbd0c57b6b8550b7f720f65795deb.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_10_1688619952482",
+      "conditions": "@trivia:(What is the Hulk’s name when he’s in human form?)",
+      "dialog_node": "node_1_1688622520696",
+      "previous_sibling": "node_10_1688621621123"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Avengers: Endgame (2019)\n\nAfter the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.\n\nDirectors : Anthony Russo & Joe Russo\nWriters : Christopher Markus, Stephen McFeely & Stan Lee\nStars : Robert Downey Jr. , Chris Evans, Mark Ruffalo, etc\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Avengers : Endgame",
+            "source": "https://youtu.be/TcMBFSGVi1c",
+            "response_type": "video",
+            "channel_options": {
+              "chat": {
+                "dimensions": {}
+              }
+            }
+          }
+        ]
+      },
+      "conditions": "#About_Movie",
+      "dialog_node": "node_2_1688583512002",
+      "previous_sibling": "node_8_1688582567435"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Marvel phases are a way of grouping several MCU movies together. They may accomplish similar things or may all be a response to events from a previous film. It’s part of the design, Marvel Studios’ way of referencing several films at once. The first three phases (Phases 1-3) are known as the Infinity Saga, which set up Thanos (Josh Brolin) as the main villain. The next three phases (Phases 4-6) are called the Multiverse Saga, which is setting up Kang the Conquerer (Jonathan Majors) as the primary villain"
+              },
+              {
+                "text": "Phase 1 introduces us to each of the Avengers.\nPhase 2 handles the fallout from The Avengers.\nPhase 3 features an uneasiness among the superheroes after Avengers: Age of Ultron (and introduces more heroes), leading us into the showstopping Avengers: Infinity War, and Avengers: Endgame.\nPhase 4 introduces a new wave of heroes—through the films and TV shows—and explores a post-Endgame world where half of the universe reappeared five years after an event known as the “Blip.” It also introduces the concept of the Multiverse, starting with Loki, Spider-Man: No Way Home, and Doctor Strange in the Multiverse of Madness.\nPhase 5 will include several sequels, new TV shows, an antagonist team-up, and the reintegration of Charlie Cox’s Daredevil into the MCU after a couple of smaller appearances in other MCU projects.\nPhase 6 plans to introduce the MCU’s take on the Fantastic Four in the leadup to two new Avengers films."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#About_Phase",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1688585170764",
+      "previous_sibling": "node_2_1688583512002"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thor Odinson, sometimes referred to by his title as the God of Thunder, is a fictional character portrayed by Chris Hemsworth in the Marvel Cinematic Universe (MCU) media franchise, based on the Marvel Comics character of the same name and the Norse mythological god of the same name. In the MCU, he is depicted as one of the most powerful Asgardians, an ancient alien civilization with long ties to Earth, who humans consider to be gods. Thor wields a powerful hammer called Mjolnir, and is initially depicted as the arrogant heir to the throne of Asgard whose brash behaviors causes turmoil among the Nine Realms under Asgard's protection."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Thor",
+            "source": "https://i.pinimg.com/564x/f7/36/c4/f736c43023085e1f6b6f246f671c10a4.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#About_Thor",
+      "dialog_node": "node_3_1688582400906",
+      "previous_sibling": "node_1_1688575590463"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "His butler is named J.A.R.V.I.S.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Iron Man",
+            "source": "https://i.pinimg.com/736x/15/e1/32/15e13209108249d80b1ea3b37fdc8065.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_10_1688619952482",
+      "conditions": "@trivia:(What is the name of Iron Man’s A.I. butler?)",
+      "dialog_node": "node_5_1688622576236",
+      "previous_sibling": "node_1_1688622520696"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " 6 (Iron Man, Thor, Captain America, Hulk, Black Widow, and Hawkeye)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Original Avenger",
+            "source": "https://i.pinimg.com/564x/46/92/e6/4692e66d9403753424a38a26d9f223c4.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_10_1688619952482",
+      "conditions": "@trivia:(How many original Avengers are there?)",
+      "dialog_node": "node_7_1688621088535"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " The name of his hammer is Mjolnir."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Mjolnir",
+            "source": "https://i.pinimg.com/564x/30/ee/f9/30eef9f26ece54b708654e26cccda049.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_10_1688619952482",
+      "conditions": "@trivia:(What is the name of Thor’s hammer?)",
+      "dialog_node": "node_7_1688621439428",
+      "previous_sibling": "node_7_1688621088535"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Good bye. See you later."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Ending",
+      "dialog_node": "node_8_1688577501146",
+      "previous_sibling": "node_10_1688619952482"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Stan Lee, He rose through the ranks of a family-run business called Timely Comics which would later become Marvel Comics. He was the primary creative leader for two decades, leading its expansion from a small division of a publishing house to a multimedia corporation that dominated the comics and film industries."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Stan Lee",
+            "source": "https://i.pinimg.com/564x/01/a8/0c/01a80c37952a89fe067815aa911a46ab.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#About_StanLee",
+      "dialog_node": "node_8_1688582567435",
+      "previous_sibling": "node_3_1688582400906"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi, how's your day?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Greetings",
+      "dialog_node": "node_9_1688572519680",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi, My name is Jarvis. What do you need?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "learning_opt_out": false,
+  "language": "en",
+  "description": "created for assistant e2d6e818-d22a-4158-8d0b-d80a19d97a23",
+  "name": "Chat Bot Marvel Character-dialog"
+}
