@@ -4,6 +4,13 @@
 
 This repository contains the source code for the Marvel Avenger Universe website, which incorporates the powerful ChatBot Watson Assistant to enhance the user experience and provide a comprehensive platform for Marvel and Avengers fans. The website aims to deliver rich, interactive, and personalized content to engage users and keep them up-to-date with the Marvel Avenger Universe.
 
+## 🚀 Demo
+
+<a href="https://akielaarmansheva.github.io/CapstoneMarvelSheva/" target="blank">
+<img src="https://img.shields.io/website?url=https://akielaarmansheva.github.io/CapstoneMarvelSheva/" />
+</a>
+Try the tool: [Marvel Avenger Universe Website with ChatBot](https://akielaarmansheva.github.io/CapstoneMarvelSheva/)
+
 Features
 ChatBot Watson Assistant: The website leverages the capabilities of ChatBot Watson Assistant to offer real-time interactions with users. The ChatBot can answer questions, provide relevant information, and give recommendations based on user preferences.
 
@@ -46,7 +53,9 @@ npm start
 ```
 
 🌟 You are all set!
-Contributing
+
+## 🍰 Contributing
+
 Contributions to the Marvel Avenger Universe website are welcome! If you find any bugs, have suggestions for new features, or want to contribute improvements, please submit a pull request. Be sure to follow the established coding guidelines and maintain the overall code quality.
 
 License
