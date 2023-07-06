@@ -36,7 +36,7 @@ To set up the Marvel Avenger Universe website locally, follow these steps:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/rahuldkjain/github-profile-readme-generator.git](https://github.com/akielaarmansheva/CapstoneMarvelSheva.git
+git clone https://github.com/akielaarmansheva/CapstoneMarvelSheva.git
 ```
 
 2. Change the working directory
