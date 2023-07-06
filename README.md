@@ -11,7 +11,7 @@ This repository contains the source code for the Marvel Avenger Universe website
 </a>
 Try the tool: [Marvel Avenger Universe Website with ChatBot](https://akielaarmansheva.github.io/CapstoneMarvelSheva/)
 
-Features
+## ⚡ Features
 ChatBot Watson Assistant: The website leverages the capabilities of ChatBot Watson Assistant to offer real-time interactions with users. The ChatBot can answer questions, provide relevant information, and give recommendations based on user preferences.
 
 Rich Content: Marvel Avenger Universe website provides a vast array of content related to Marvel characters, comics, films, and TV series. Users can explore detailed character profiles, read the latest comic releases, watch movie trailers, and stay informed about upcoming projects.
