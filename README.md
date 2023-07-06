@@ -7,9 +7,6 @@
   Marvel Avenger Universe Website with ChatBot Watson Assistant
 </h1>
 
-(![image](https://github.com/akielaarmansheva/CapstoneMarvelSheva/)
-
-
 This repository contains the source code for the Marvel Avenger Universe website, which incorporates the powerful ChatBot Watson Assistant to enhance the user experience and provide a comprehensive platform for Marvel and Avengers fans. The website aims to deliver rich, interactive, and personalized content to engage users and keep them up-to-date with the Marvel Avenger Universe.
 
 ## 🚀 Demo
@@ -21,15 +18,15 @@ This repository contains the source code for the Marvel Avenger Universe website
 Try the tool: [Marvel Avenger Universe Website with ChatBot](https://akielaarmansheva.github.io/CapstoneMarvelSheva/)
 
 ## ⚡ Features
-ChatBot Watson Assistant: The website leverages the capabilities of ChatBot Watson Assistant to offer real-time interactions with users. The ChatBot can answer questions, provide relevant information, and give recommendations based on user preferences.
+ChatBot Watson Assistant: The website leverages the capabilities of ChatBot Watson Assistant to offer real-time interactions with users. The ChatBot can answer `questions`, `provide relevant information`, and give recommendations based on `user preferences`.
 
-Rich Content: Marvel Avenger Universe website provides a vast array of content related to Marvel characters, comics, films, and TV series. Users can explore detailed character profiles, read the latest comic releases, watch movie trailers, and stay informed about upcoming projects.
+- **Rich Content:** Marvel Avenger Universe website provides a vast array of content related to Marvel characters, comics, films, and TV series. Users can explore detailed character profiles, read the latest comic releases, watch movie trailers, and stay informed about upcoming projects.
 
-Interactive Experience: The website offers an immersive and interactive experience, allowing users to engage with the Marvel Avenger Universe in various ways. They can interact with the ChatBot, browse image galleries, watch exclusive videos, and participate in interactive quizzes and games.
+- **Interactive Experience:** The website offers an immersive and interactive experience, allowing users to engage with the Marvel Avenger Universe in various ways. They can interact with the ChatBot, browse image galleries, watch exclusive videos, and participate in interactive quizzes and games.
 
-Intuitive Design: The website features a user-friendly and visually appealing design. The intuitive layout ensures easy navigation, enabling users to find the desired information quickly. The responsive design ensures a seamless experience across different devices and screen sizes.
+- **Intuitive Design:** The website features a user-friendly and visually appealing design. The intuitive layout ensures easy navigation, enabling users to find the desired information quickly. The responsive design ensures a seamless experience across different devices and screen sizes.
 
-Real-time Updates: Marvel Avenger Universe website keeps users informed about the latest news, announcements, and releases from the Marvel Avenger Universe. Users can rely on the website to stay up-to-date with the ever-evolving Marvel universe.
+- **Real-time Updates:** Marvel Avenger Universe website keeps users informed about the latest news, announcements, and releases from the Marvel Avenger Universe. Users can rely on the website to stay up-to-date with the ever-evolving Marvel universe.
 
 ## 🛠️ Installation Steps
 
