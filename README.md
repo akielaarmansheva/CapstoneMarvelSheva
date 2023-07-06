@@ -15,14 +15,37 @@ Intuitive Design: The website features a user-friendly and visually appealing de
 
 Real-time Updates: Marvel Avenger Universe website keeps users informed about the latest news, announcements, and releases from the Marvel Avenger Universe. Users can rely on the website to stay up-to-date with the ever-evolving Marvel universe.
 
-Getting Started
+## 🛠️ Installation Steps
+
+## Getting Started
 To set up the Marvel Avenger Universe website locally, follow these steps:
 
-Clone the repository: git clone https://github.com/example/marvel-avenger-universe.git
-Install the required dependencies: npm install
-Configure the ChatBot Watson Assistant credentials in the application settings.
-Build and run the application: npm start
-Access the website in your browser at http://localhost:8000
+1. Clone the repository
+
+```bash
+git clone https://github.com/rahuldkjain/github-profile-readme-generator.git](https://github.com/akielaarmansheva/CapstoneMarvelSheva.git
+```
+
+2. Change the working directory
+
+```bash
+cd github-profile-readme-generator
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+4. Configure the ChatBot Watson Assistant credentials in the application settings.
+  
+5. Run the app
+
+```bash
+npm start
+```
+
+🌟 You are all set!
 Contributing
 Contributions to the Marvel Avenger Universe website are welcome! If you find any bugs, have suggestions for new features, or want to contribute improvements, please submit a pull request. Be sure to follow the established coding guidelines and maintain the overall code quality.
 
