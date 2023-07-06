@@ -64,13 +64,15 @@ npm start
 
 Contributions to the Marvel Avenger Universe website are welcome! If you find any bugs, have suggestions for new features, or want to contribute improvements, please submit a pull request. Be sure to follow the established coding guidelines and maintain the overall code quality.
 
-License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as permitted by the license.
+## 🗪 Contact
+If you have any questions, suggestions, or feedback, please reach out to the project maintainers at contact@marvel.com. We value your input and are eager to hear from you.
 
-Contact
-If you have any questions, suggestions, or feedback, please reach out to the project maintainers at contact@marvelavengeruniverse.com. We value your input and are eager to hear from you.
+Visit the Marvel Avenger Universe website at https://www.marvel.com/ and start exploring the Marvel universe like never before!
 
-Visit the Marvel Avenger Universe website at https://www.marvelavengeruniverse.com and start exploring the Marvel universe like never before!
+## 🙋‍♂️ Support
+
+💙 If you like this project, give it a ⭐ and share it with friends!
+<a href="https://www.instagram.com/akieeel/"><img alt="Instagram" title="Instagram" src=https://i.pinimg.com/564x/7d/36/9f/7d369fb78ad668867000c0d987a1b70d.jpg"/></a>
 
 
 
